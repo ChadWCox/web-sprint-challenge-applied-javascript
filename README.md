@@ -28,13 +28,23 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. What is the DOM?
 
+The DOM 'aka' document object modal is a programing interface
+
 2. What is an event?
+
+A DOM event allows javascript to register differnt event handlers on elemnts, such as a 'click'.
 
 3. What is an event listener?
 
+Is a method that allows the programmer to add listeners to register event occurences. 
+
 4. Why would we convert a NodeList into an Array?
 
+If an nodelist is in an array it allows us to use array methonds such as .forEach to quickly process data. 
+
 5. What is a component?
+
+Components are reusable bits of code that that returns HTML via a rendered function. 
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
